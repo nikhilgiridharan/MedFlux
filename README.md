@@ -1,7 +1,7 @@
 # MedFlux
 
 ## **Overview**
-This project involves creating a real-time healthcare analytics dashboard using **Python Dash**, **MySQL**, and **AWS S3**. The dashboard allows healthcare providers to explore **demographics, disease trends, and treatment costs**. An **ETL pipeline** built with Python fetches and processes healthcare records from AWS S3 and loads them into a MySQL database.
+This project involves creating a real-time healthcare analytics dashboard using **Python Dash**, **SQL**, **MySQL**, and **AWS S3**. The dashboard allows healthcare providers to explore **demographics, disease trends, and treatment costs**. An **ETL pipeline** built with Python fetches and processes healthcare records from AWS S3 and loads them into a MySQL database.
 
 ---
 
